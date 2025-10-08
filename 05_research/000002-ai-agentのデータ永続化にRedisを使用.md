@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️ADR]]"
 tags:
 - ElasticCache
 - Dynamo

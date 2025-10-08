@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️基本設計書]]"
 ---
 ```mermaid
 flowchart LR

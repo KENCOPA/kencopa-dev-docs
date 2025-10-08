@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️基本設計書]]"
 ---
 # azuchi-frontendヘルプページリンク更新仕様
 

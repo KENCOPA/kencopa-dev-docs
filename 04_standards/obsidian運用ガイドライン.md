@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️standard]]"
 tags:
 - guide
 ---

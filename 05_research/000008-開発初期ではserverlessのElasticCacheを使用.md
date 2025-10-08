@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️ADR]]"
 tags:
 - '#ai/ref'
 - ElasticCache

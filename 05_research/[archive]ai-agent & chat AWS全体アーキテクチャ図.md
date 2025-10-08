@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️research]]"
 tags:
 - excalidraw
 ---

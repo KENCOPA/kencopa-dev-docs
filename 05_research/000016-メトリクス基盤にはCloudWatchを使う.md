@@ -1,12 +1,7 @@
 ---
 type: note
----
----
-type: note
+moc: "[[🏷️ADR]]"
 tags: 
-moc:
-  - "[[🏷️ ADR]]"
-  - "[[🏷️ repository]]"
 下書き: true
 提案済み: 
 承認済み: 
