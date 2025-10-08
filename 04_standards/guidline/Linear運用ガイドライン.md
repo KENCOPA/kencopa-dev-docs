@@ -107,10 +107,4 @@ Issueの緊急度と重要度を以下の基準で設定します。
 1. **タスクの割り当て**: Devinに任せる作業は、Issueの担当者（Assignee）を `Devin` に設定します。
 2. **スコープの明確化**: Devinへの依頼範囲や制約事項は、Issue作成者または担当者が内容を明確に記述します。
 3. **コードレビューの徹底**: Devinが作成したPull Requestも、通常の開発プロセスと同様に `In Review` ステータスで必ず人間のエンジニアによるレビューを実施します。
-<%*
-// ファイル名を window から入力
-let title = await tp.system.prompt("[必須] ファイル名を入力（拡張子不要）:");
 
-// ファイル名の変更
-await tp.file.move(`02. resources/🗒️ ${title}`);
-%>

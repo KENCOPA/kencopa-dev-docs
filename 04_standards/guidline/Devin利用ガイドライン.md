@@ -312,13 +312,7 @@ Devinへのタスク依頼と進捗管理は、Linear上で完結させること
 
 
 ```javascript
-<%*
-// ファイル名を window から入力
-let title = await tp.system.prompt("[必須] ファイル名を入力（拡張子不要）:");
 
-// ファイル名の変更
-await tp.file.move(`02. resources/🗒️ ${title}`);
-%>
 
 
 
