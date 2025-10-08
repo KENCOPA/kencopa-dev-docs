@@ -1,0 +1,464 @@
+{
+  "main": {
+    "id": "df7b184453b6dc50",
+    "type": "split",
+    "children": [
+      {
+        "id": "133c24f0cac93e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b7abe199e9e2a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "2f50430ec21fac40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/概念設計書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概念設計書"
+            }
+          },
+          {
+            "id": "5191ac6d16514406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/基本設計書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基本設計書"
+            }
+          },
+          {
+            "id": "06737f17735e7841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/詳細設計書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "詳細設計書"
+            }
+          },
+          {
+            "id": "181ab48b23779452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/実行計画書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "実行計画書"
+            }
+          },
+          {
+            "id": "9c4224f6cc0bbad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/ADR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR"
+            }
+          },
+          {
+            "id": "81626d5a9c27ccde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/ガイドライン.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ガイドライン"
+            }
+          },
+          {
+            "id": "607bdc76cb9839d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "10_templates/excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "709a41f4b9fa0082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/moc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "moc"
+            }
+          },
+          {
+            "id": "ba9496237be16169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/view.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "view"
+            }
+          },
+          {
+            "id": "34478a974a957136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_templates/research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "research"
+            }
+          },
+          {
+            "id": "4db1f07dd8f00d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_templates/🔰standard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔰standard"
+            }
+          },
+          {
+            "id": "f898ed0689dd7fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_templates/🪧ポストモーテム.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🪧ポストモーテム"
+            }
+          },
+          {
+            "id": "034a95e96ecbacfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_templates/🌱概念設計書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🌱概念設計書"
+            }
+          },
+          {
+            "id": "04a3d46f1ea838c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_templates/🪴基本設計書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🪴基本設計書"
+            }
+          },
+          {
+            "id": "3d4f3b49cdbb4c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_mocs/🏷️詳細設計書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🏷️詳細設計書"
+            }
+          },
+          {
+            "id": "1a4c0d72946868bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "35262344dd7e589e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_standards/guidline/🔰【Kunai】Linearガイドライン.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔰【Kunai】Linearガイドライン"
+            }
+          },
+          {
+            "id": "cdfa93ec98bfcd90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_research/建設業/建築工程表生成に必要な変数の整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "建築工程表生成に必要な変数の整理"
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc3bfb46d1e78810",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e551f3f98396ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34e2d266a7b3358",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "f2ec69d611e57344",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#土木工程表生成に必要な変数の整理",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "dcb8cbae226e61f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "670982305927a742",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d2afcba91514699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68580c04057d8efc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_templates/ガイドライン.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ガイドラインへのバックリンク"
+            }
+          },
+          {
+            "id": "099573f8275df96e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_templates/ガイドライン.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ガイドラインからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "9c36bff466ec9a76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "b23b1ecd63dc4282",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_templates/ガイドライン.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ガイドラインのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e34e2d266a7b3358",
+  "lastOpenFiles": [
+    "05_research/建設業/土木工程表生成に必要な変数の整理.md",
+    "05_research/建設業",
+    "05_research/建設業/土木工事積算基準歩掛り分析.md",
+    "05_research/建設業/建築工程表生成に必要な変数の整理.md",
+    "03_projects/kunai/概念設計/工事現場/工事現場人員管理.md",
+    "03_projects/kunai/概念設計/工事現場/工事現場基本機能.md",
+    "03_projects/kunai/概念設計/工事現場/実績/実績機能.md",
+    "03_projects/kunai/概念設計/工事現場/工事現場リソース管理/資材管理機能.md",
+    "03_projects/kunai/概念設計/工事現場/工事現場リソース管理/機械管理機能.md",
+    "03_projects/kunai/概念設計/工事現場/工事現場リソース管理/企業管理機能.md",
+    "04_standards/guidline/🔰Obsidianガイドライン.md",
+    "03_projects/kunai/🪴test.md",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/ユーザー/ユーザー認証機能.md",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/ユーザー/ユーザー管理機能.md",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/ユーザー/ユーザー招待機能.md",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/テナント/ユーザー数制御機能.md",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/テナント/工事現場数制御機能.md",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/テナント/テナント設定機能.md",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/テナント/テナント管理機能.md",
+    "03_projects/kunai/概念設計/工事現場/工事現場リソース管理",
+    "03_projects/kunai/概念設計/工事現場/実績",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/ユーザー",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/テナント",
+    "03_projects/kunai/概念設計/マスタ機能/資材マスタ機能.md",
+    "03_projects/kunai/概念設計/マスタ機能/機械マスタ機能.md",
+    "03_projects/kunai/概念設計/マスタ機能/工種体系マスタ機能v2.md",
+    "03_projects/kunai/概念設計/マスタ機能/工種体系マスタ機能.md",
+    "03_projects/kunai/概念設計/マスタ機能/工種体系マスタimport.md",
+    "03_projects/kunai/概念設計/マスタ機能/企業マスタ機能.md",
+    "03_projects/kunai/概念設計/マスタ機能/マスタ機能概要.md",
+    "03_projects/kunai/概念設計/工事現場",
+    "03_projects/kunai/概念設計/ユーザー・テナント管理",
+    "03_projects/kunai/概念設計/マスタ機能",
+    "03_projects/kunai/概念設計/AI工程表エディター",
+    "03_projects/kunai/概念設計/AIタスク管理"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-spx-link-plugin",
+  "name": "SPX Link Copier",
+  "version": "0.1.0",
+  "minAppVersion": "0.14.0",
+  "description": "Copy SPX-wrapped Obsidian URL for current note",
+  "author": "dacsar",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
