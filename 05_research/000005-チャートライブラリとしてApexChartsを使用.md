@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️ADR]]"
 ---
 # Recharts vs ApexCharts 詳細比較
 

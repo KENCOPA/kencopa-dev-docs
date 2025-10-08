@@ -1,5 +1,6 @@
 ---
 type: note
+moc: "[[🏷️用語集]]"
 ---
 # 共通（Common）
 
