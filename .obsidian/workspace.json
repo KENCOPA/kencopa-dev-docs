@@ -4,275 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "133c24f0cac93e0d",
+        "id": "a0cc1366eeca8aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "33b7abe199e9e2a8",
+            "id": "929ff0bf88e43864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03_projects/kunai/概念設計/AIタスク管理/タスク管理機能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "2f50430ec21fac40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/概念設計書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "概念設計書"
-            }
-          },
-          {
-            "id": "5191ac6d16514406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/基本設計書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基本設計書"
-            }
-          },
-          {
-            "id": "06737f17735e7841",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/詳細設計書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "詳細設計書"
-            }
-          },
-          {
-            "id": "181ab48b23779452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/実行計画書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "実行計画書"
-            }
-          },
-          {
-            "id": "9c4224f6cc0bbad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/ADR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADR"
-            }
-          },
-          {
-            "id": "81626d5a9c27ccde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/ガイドライン.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ガイドライン"
-            }
-          },
-          {
-            "id": "607bdc76cb9839d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "10_templates/excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "excalidraw"
-            }
-          },
-          {
-            "id": "709a41f4b9fa0082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/moc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "moc"
-            }
-          },
-          {
-            "id": "ba9496237be16169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/view.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "view"
-            }
-          },
-          {
-            "id": "34478a974a957136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_templates/research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "research"
-            }
-          },
-          {
-            "id": "4db1f07dd8f00d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_templates/🔰standard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🔰standard"
-            }
-          },
-          {
-            "id": "f898ed0689dd7fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_templates/🪧ポストモーテム.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🪧ポストモーテム"
-            }
-          },
-          {
-            "id": "034a95e96ecbacfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_templates/🌱概念設計書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌱概念設計書"
-            }
-          },
-          {
-            "id": "04a3d46f1ea838c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_templates/🪴基本設計書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🪴基本設計書"
-            }
-          },
-          {
-            "id": "3d4f3b49cdbb4c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_mocs/🏷️詳細設計書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🏷️詳細設計書"
-            }
-          },
-          {
-            "id": "1a4c0d72946868bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "35262344dd7e589e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_standards/guidline/🔰【Kunai】Linearガイドライン.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🔰【Kunai】Linearガイドライン"
-            }
-          },
-          {
-            "id": "cdfa93ec98bfcd90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_mocs/🏷️詳細設計書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🏷️詳細設計書"
+              "title": "タスク管理機能"
             }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -423,34 +172,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e34e2d266a7b3358",
+  "active": "929ff0bf88e43864",
   "lastOpenFiles": [
-    "02_mocs/🏷️用語集.md",
-    "02. resources/🗒️ null.md",
-    "02. resources",
-    "02_mocs/🏷️詳細設計書.md",
-    "02_mocs/🏷️基本設計書.md",
-    "02_mocs/🏷️実行計画書.md",
-    "02_mocs/🏷️概念設計書.md",
-    "02_mocs/🏷️standard.md",
-    "02_mocs/🏷️research.md",
-    "02_mocs/🏷️ADR.md",
-    "03_projects/kunai/ラベル管理機能の実運用化_基本設計.md",
-    "03_projects/kunai/kunai_ubiquitous_language.md",
-    "03_projects/(BE)AIツールのrules管理方法.md",
-    "03_projects/20253Q開発体制.md",
+    "03_projects/kunai/概念設計/AIタスク管理/AIタスク実行機能.md",
+    "03_projects/kunai/概念設計/AI アシスタント/チャット機能.md",
+    "90_templates/⚖️ADR.md",
+    "03_projects/azc-1059-各環境のNATGW数の調整と、VPCEの作成.md",
+    "03_projects/1048-safegenのloggerのリファクタリング.md",
+    "README.md",
     "02_mocs/🏷️ポストモーテム.md",
-    "05_research/ai-agent RAGパイプライン設計.md",
-    "05_research/000026-kunai-aiインフラのアーキテクチャ検討.md",
+    "02_mocs/🏷️standard.md",
+    "02_mocs/🏷️ADR.md",
+    "02_mocs/🏷️research.md",
+    "02_mocs/🏷️詳細設計書.md",
+    "02_mocs/🏷️実行計画書.md",
+    "02_mocs/🏷️基本設計書.md",
+    "02_mocs/🏷️概念設計書.md",
+    "02_mocs/🏷️用語集.md",
+    "90_templates/🌲詳細設計書.md",
+    "90_templates/🌱概念設計書.md",
+    "03_projects/(BE)AIツールのrules管理方法.md",
+    "90_templates/🪴基本設計書.md",
+    "90_templates/🍃実行計画書.md",
+    "04_standards/obsidianとcursorの連携ガイドライン.md",
+    "04_standards/AmplifyとGithubリポジトリの連携.md",
+    "05_research/000025-kunai-aiではdomain objectの実装にpydanticを利用する.md",
     "05_research/000019-日報メール送信にAmazon SES (v2) + nodemailerを使用する.md",
-    "05_research/000010-RAGのpreprocessパイプラインにはLambdaを使う.md",
-    "05_research/000006-core-api以外のvpcはcommon-infraで管理.md",
-    "05_research/000003-ai-agentのロック機構にRedisを使用.md",
-    "03_projects/工程表生成プロセスの最適化.md",
-    "05_research/歩掛データ機能_domain層_詳細設計書.md",
-    "05_research/工種体系マスタ歩掛データ機能.md",
-    "05_research/ソフトウェアテスト戦略に関する仮説検証：ユニットテストから統合テストまでのリサーチ.md",
-    "05_research/ai-agent & chat.md",
+    "05_research/000018-日報ファイルアップロードにreact-dropzoneライブラリを使用する.md",
+    "05_research/000004-LLMOpsツールの選定.md",
+    "02. resources",
     "01_views",
     "05_research/建設業",
     "03_projects/kunai/概念設計/工事現場/工事現場リソース管理",
