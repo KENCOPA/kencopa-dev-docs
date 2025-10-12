@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_projects/000022-BackendでGET以外のメソッドは基本的にレスポンスデータ不要.md",
+                "file": "03_projects/kunai/テナントコンテキスト実装方針.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "000022-BackendでGET以外のメソッドは基本的にレスポンスデータ不要"
+              "title": "テナントコンテキスト実装方針"
             }
           }
         ]
@@ -184,41 +184,41 @@
   },
   "active": "cb08703867810e25",
   "lastOpenFiles": [
+    "03_projects/kunai/マスタデータマイグレーションシステム設計.md",
+    "03_projects/kunai/テナントコンテキスト実装方針.md",
+    "03_projects/kunai/ラベル管理機能の実運用化_詳細設計.md",
+    "03_projects/kunai/ラベル管理機能の実運用化_基本設計.md",
+    "03_projects/kunai/工程表生成/ファイルアップロード・削除機能設計書.md",
+    "03_projects/kunai/アカウント作成・ログイン機能設計.md",
+    "03_projects/kunai/kunai_ubiquitous_language.md",
+    "03_projects/kunai/FE・BEのエラーハンドリング.md",
+    "03_projects/kunai/BEディレクトリ構造方針.md",
+    "03_projects/kunai/000026-kunai-aiインフラのアーキテクチャ検討.md",
     "03_projects/kunai/000025-kunai-aiではdomain objectの実装にpydanticを利用する.md",
-    "03_projects/icon【村本】/000024-playwright-llm-adaptive-automation-adr.md",
+    "03_projects/kunai/(BE)AIツールのrules管理方法.md",
+    "03_projects/kunai/工程表エディター/Kenvas Architecture Design Document v2.md",
+    "03_projects/kunai/工程表エディター/工程表エディタパフォーマンス基盤構築.md",
+    "03_projects/kunai/工程表エディター/工程表エディタ-Kenvas-.md",
+    "03_projects/kunai/工程マスターデータ機能.md",
+    "03_projects/kunai/工程AIアーキテクチャ図_v1.md",
+    "03_projects/kunai/工程表生成/設計図書読み込み機能.md",
+    "03_projects/kunai/工程表エディター",
+    "03_projects/kunai/工程表生成/工程表生成プロセスの最適化.md",
+    "03_projects/kunai/工程表生成/工程生成_マッピングロジックの改善.md",
     "03_projects/000022-BackendでGET以外のメソッドは基本的にレスポンスデータ不要.md",
+    "03_projects/kunai/工程表生成",
+    "03_projects/kunai/基本設計",
+    "03_projects/icon【村本】/000024-playwright-llm-adaptive-automation-adr.md",
     "03_projects/azuchi/000021-ガントチャートの画像生成に、dom-to-imageライブラリを使用する.md",
     "03_projects/azuchi/000002-ai-agentのデータ永続化にRedisを使用.md",
     "05_research/FE-BE間のエラーハンドリング方法について.md",
     "05_research/ソフトウェアテスト戦略に関する仮説検証：ユニットテストから統合テストまでのリサーチ.md",
-    "05_research/Prompt Management with Langfuse.md",
-    "05_research/BEのユニットテスト方針について.md",
-    "03_projects/ai-agent RAGパイプライン設計.md",
-    "03_projects/ai-agent & chat.md",
-    "03_projects/[archive]ai-agent & chat AWS全体アーキテクチャ図.md",
-    "03_projects/歩掛データ機能_domain層_詳細設計書.md",
-    "03_projects/工種体系マスタ歩掛データ機能.md",
-    "03_projects/マルチテナントシステム設計.md",
-    "03_projects/部署・支店マスターデータ管理場所.md",
-    "03_projects/認可ルールのビルディング.md",
-    "03_projects/azuchi/日報.md",
-    "03_projects/kunai/工程表エディタ-Kenvas-.md",
-    "03_projects/kunai/工程生成のシステム構成.md",
-    "03_projects/kunai/工程生成アーキテクチャ.md",
-    "03_projects/ユーザー招待の際に部署・支店を割り当てできるWF.md",
-    "03_projects/kunai/工程生成_マッピングロジックの改善.md",
-    "03_projects/ユーザードメインモデル.md",
-    "03_projects/kunai/工程マスタ検索機能_基本設計.md",
-    "03_projects/kunai/工程マスターデータ機能.md",
     "03_projects/icon【村本】",
     "02. resources",
     "01_views",
     "05_research/建設業",
     "03_projects/kunai/概念設計/工事現場/工事現場リソース管理",
     "03_projects/kunai/概念設計/工事現場/実績",
-    "03_projects/kunai/概念設計/ユーザー・テナント管理/ユーザー",
-    "03_projects/kunai/概念設計/ユーザー・テナント管理/テナント",
-    "03_projects/kunai/概念設計/工事現場",
-    "03_projects/kunai/概念設計/ユーザー・テナント管理"
+    "03_projects/kunai/概念設計/ユーザー・テナント管理/ユーザー"
   ]
 }
